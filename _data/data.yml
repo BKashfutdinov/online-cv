@@ -46,9 +46,8 @@ sidebar:
       #  link:
 
 career-profile:
-    title: Career Profile
+    title: Обо мне
     summary: |
-      Имею научные публикации по темам контактного взаимодействия, взаимодействия жидкости с конструкцией, и по теме аэросервоупругости. Неоднократно учавствовал с докладами на российских и международных конференциях.
       Имеются сертификаты компании MSC.Software. 
       
       Планирую свое развитие в 4 направлениях:
@@ -138,27 +137,19 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Публикации
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Имею научные публикации по темам контактного взаимодействия, взаимодействия жидкости с конструкцией, и по теме аэросервоупругости. Неоднократно учавствовал с докладами на российских и международных конференциях.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Механика контактного взаимодействия
+        authors: Аринчев С.В. Кашфутдинов Б.Д.
+        conference: Вестник МГТУ, серия "Машиностроение", 2008
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills #&amp; Proficiency
 
     toolset:
       - name: ABAQUS
