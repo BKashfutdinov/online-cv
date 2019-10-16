@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: bkashfutdinov@bmstu.ru
-    email: bulat.kashfutdinov@gmail.com
+    #email2: bulat.kashfutdinov@gmail.com
     phone: +7 915 198 61 63
     website: bmstu.ru #do not add http://
     linkedin: bkashfutdinov
@@ -59,103 +59,83 @@ career-profile:
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Инженер-ракетостроитель
+      university: МГТУ им Н.Э. Баумана
+      time: 2002 - 2008
+#      details: |
+#        Describe your study here
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: менедж
+      university: Государственный Университет Управления
+      time: 2006 - 2011
+#      details: |
+#        Describe your study here 
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: ведущий инженер
+      time: 2011 - 2019
+      company: Smartec, SAFRAN, авиационные двигатели
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        За 8 лет на рабочем месте прошел путь от инженера-прочниста, выполняющего расчеты на статическую прочность до эксперта в области механики разрушения и усталости. Собрал команду из 6 человек для выполнения сложных задач, требующих поиска нестандартного подхода. Применение метода XFEM позволило анализировать разрушение деталей в трехмерной постановке. Автоматизирование процесса обработки полученных результатов позволило увеличить объем выполняемых работ, а организация работы - выявить сильные стороны у всех членов команды и сосредоточиться на их разватии. Навыки, полученные в университете управления, помогают вести проект от начала и до конца, от получения запроса на работу и до формирования запроса на оплату выполненного задания.
 
-          - Bullet point
-          - Bullet point
+          - Silvercrest
+          - Leap 1A/C
+          - Leap 1B
+          - GE90
+          - GE9X
+          - CFM56
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: инженер
+      time: 2010 - 2011
+      company: Прогресстех-Россия, Spirit Aerosystems, авиация
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Прочностной анализ различных деталей, образмеривание.
 
-          - Bullet point
-          - Bullet point
+          - пилон Mitsubishi Regional Jet
+          - пилон C-series (Bombardier)
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: инженер
+      time: 2004 - 2008
+      company: ОАО ВПК "НПО Машиностроение", аэрокосмос
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        прочностной анализ различных деталей, расчет флаттера и дивергенции
 
           - Bullet point
           - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#    assignments:
+##      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -181,23 +161,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: ABAQUS
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: ANSYS
+        #level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: NASTRAN
+        #level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Patran
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: CATIA
+        #level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Code-Aster
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
