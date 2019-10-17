@@ -148,8 +148,7 @@ publications:
         
 skills:
     title: Skills #&amp; Proficiency
-    intro: |
-Имеются сертификаты компании MSC.Software. 
+
     toolset:
       - name: ABAQUS
         #level: 98%
