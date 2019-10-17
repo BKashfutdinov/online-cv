@@ -161,18 +161,6 @@ skills:
 
       - name: Patran
         level: 98%
-
-      - name: Digimat
-        level: 75%
-        
-      - name: CATIA
-        level: 75%
-
-      - name: Code-Aster
-        level: 90%
-        
-      - name: Calculix
-        level: 90%
         
       - name: SOLIDWORKS
         level: 98%
@@ -182,6 +170,20 @@ skills:
         
       - name: Code-Aster
         level: 90%
+        
+      - name: Calculix
+        level: 90%
+        
+      - name: Digimat
+        level: 75%
+        
+      - name: CATIA
+        level: 75%
+
+
+        
+
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
