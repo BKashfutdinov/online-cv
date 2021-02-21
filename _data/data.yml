@@ -102,17 +102,17 @@ experiences:
       details: |
         Прочностной анализ различных деталей, расчет флаттера и дивергенции
 
-#projects:
-#    title: Projects
+projects:
+    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-#    assignments:
-##      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Программа повышения квалификации «Математическое моделирование. Общие принципы и прикладные задачи»
+        link: "https://www.aex.ru/news/2021/2/10/223204/"
+        tagline: "Параллельные вычисления методом конечных элементов. Механика разрушения льда."
 
 #      - title: DevStudio
 #        link: "#"
